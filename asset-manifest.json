@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zibri/static/css/main.5d8d31f8.chunk.css",
+    "main.js": "/zibri/static/js/main.9a0976b9.chunk.js",
+    "main.js.map": "/zibri/static/js/main.9a0976b9.chunk.js.map",
+    "runtime-main.js": "/zibri/static/js/runtime-main.99da5b6d.js",
+    "runtime-main.js.map": "/zibri/static/js/runtime-main.99da5b6d.js.map",
+    "static/js/2.54f30f7a.chunk.js": "/zibri/static/js/2.54f30f7a.chunk.js",
+    "static/js/2.54f30f7a.chunk.js.map": "/zibri/static/js/2.54f30f7a.chunk.js.map",
+    "index.html": "/zibri/index.html",
+    "static/css/main.5d8d31f8.chunk.css.map": "/zibri/static/css/main.5d8d31f8.chunk.css.map",
+    "static/js/2.54f30f7a.chunk.js.LICENSE.txt": "/zibri/static/js/2.54f30f7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99da5b6d.js",
+    "static/js/2.54f30f7a.chunk.js",
+    "static/css/main.5d8d31f8.chunk.css",
+    "static/js/main.9a0976b9.chunk.js"
+  ]
+}
